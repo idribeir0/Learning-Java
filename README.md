@@ -7,6 +7,7 @@ This repo contains my studies and practice in programming logic using Java. As I
 2. hello world
 3. variable
 4. primitive types
+5. reference types
 
 
 ## Introduction
@@ -22,14 +23,5 @@ Every variable has to have a name, a value and a data type.
 ## Primitive types
 The primitive types are the basic building blocks in java that store simples values, each with a defined size and range.
 
-| Primitive Type | Size         | Range/Values                                    |
-|----------------|--------------|-------------------------------------------------|
-| `byte`         | 1 byte       | -128 to 127                                      |
-| `short`        | 2 bytes      | -32,768 to 32,767                               |
-| `int`          | 4 bytes      | -2^31 to 2^31 - 1                               |
-| `long`         | 8 bytes      | -2^63 to 2^63 - 1                               |
-| `float`        | 4 bytes      | ±3.40282347E+38F (6-7 decimal digits)           |
-| `double`       | 8 bytes      | ±1.79769313486231570E+308 (15 decimal digits)   |
-| `char`         | 2 bytes      | 0 to 65,535 (Unicode characters)                |
-| `boolean`      | 1 bit        | `true` or `false`                               |
-
+## Reference types
+These are more complex objects that store references to data (such as arrays, classes, and interfaces). Instead of storing the actual data, they store a reference (or pointer) to where the data is located in memory(heap)
