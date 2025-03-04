@@ -8,6 +8,8 @@ This repo contains my studies and practice in programming logic using Java. As I
 3. variable
 4. primitive types
 5. reference types
+6. string
+7. method
 
 
 ## Introduction
@@ -25,3 +27,10 @@ The primitive types are the basic building blocks in java that store simples val
 
 ## Reference types
 These are more complex objects that store references to data (such as arrays, classes, and interfaces). Instead of storing the actual data, they store a reference (or pointer) to where the data is located in memory(heap)
+
+## Strings
+String is a sequence of characters, used to store and manipulate text. Strings are immutable - once created, their value cannot be changed. But we can manipulate the strings using methods.
+
+## Method
+In java a method is a block of code that performs a specific task like a set of instructions grouped together to do something like calculating a sum, printing text or sortin a list.
+
