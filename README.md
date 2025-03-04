@@ -1,6 +1,6 @@
 # Java Programming Logic Learning
 
-This repo contains my studies and practice in programming logic using Java. As I learn and practice new concepts, I document my progress here. f you're starting with Java or want to improve your programming skills, this repo may be helpful.
+This repo contains my studies and practice in programming logic using Java. As I learn and practice new concepts, I document my progress here. If you're starting with Java or want to improve your programming skills, this repo may be helpful.
 
 ## Table of contents
 1. introduction
@@ -11,7 +11,7 @@ This repo contains my studies and practice in programming logic using Java. As I
 
 
 ## Introduction
-I'm learning the java prograaming gradually. The goal is to understand the core principles and move on to more complex projects as time and knowledge progress.
+I'm learning the java programming gradually. The goal is to understand the core principles and move on to more complex projects as time and knowledge progress.
 
 ## Hello world
 The first step was create the traditional hello world program. It helps understand the basic of a program structure in java, including classes and methods.
