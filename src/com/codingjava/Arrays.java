@@ -13,6 +13,9 @@ public class Arrays {
 
     }
 
+    public static boolean deepToString(int[][] numbers) {
+        return false;
+    }
 }
 
 
