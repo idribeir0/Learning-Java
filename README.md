@@ -42,3 +42,5 @@ In java an array is a data structure that stores a fixed-size collection of elem
 ## Multidimensional Arrays
 Multidimensional arrays are used when you need to store and organize data in a grid or table format
 
+## Constants
+Constants hold values that never change. They are used to store fixed values that should remain the same throughout the program
