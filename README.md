@@ -11,6 +11,7 @@ This repo contains my studies and practice in programming logic using Java. As I
 6. string
 7. method
 8. arrays
+9. multidimensional arrays
 
 
 ## Introduction
@@ -36,4 +37,8 @@ String is a sequence of characters, used to store and manipulate text. Strings a
 In java a method is a block of code that performs a specific task like a set of instructions grouped together to do something like calculating a sum, printing text or sortin a list.
 
 ## Arrays
-In java an aray is a data structure that stores a fixed-size collection of elements of the same type. It's like a container that holds multiple values in a single variable.
+In java an array is a data structure that stores a fixed-size collection of elements of the same type. It's like a container that holds multiple values in a single variable.
+
+## Multidimensional Arrays
+Multidimensional arrays are used when you need to store and organize data in a grid or table format
+
