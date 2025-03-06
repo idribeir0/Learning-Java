@@ -14,6 +14,7 @@ This repo contains my studies and practice in programming logic using Java. As I
 9. multidimensional arrays
 10. casting
 11. formatting numbers
+12. reading input
 
 
 ## Introduction
@@ -52,3 +53,6 @@ Casting is used to convert a value from a data type to another.
 
 ## Formatting Numbers
 Adjusting how numbers are displayed - adding commas, decimals, currency symbols, or percentages. It helps make outputs more readable.
+
+## Reading input
+It read a name from the user and prints a personalized message.
