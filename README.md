@@ -12,6 +12,7 @@ This repo contains my studies and practice in programming logic using Java. As I
 7. method
 8. arrays
 9. multidimensional arrays
+10. casting
 
 
 ## Introduction
@@ -44,3 +45,6 @@ Multidimensional arrays are used when you need to store and organize data in a g
 
 ## Constants
 Constants hold values that never change. They are used to store fixed values that should remain the same throughout the program
+
+## Casting 
+Casting is used to convert a value from a data type to another.
