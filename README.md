@@ -56,3 +56,9 @@ Adjusting how numbers are displayed - adding commas, decimals, currency symbols,
 
 ## Reading input
 It read a name from the user and prints a personalized message.
+
+## Comparison Operator 
+Comparison operator are used to compare two values and return a boolean result (true or false)
+
+## Logical Operator
+Logical operator are used to combine booleand expressions
